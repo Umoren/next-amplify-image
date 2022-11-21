@@ -1,0 +1,17 @@
+{
+  "resourceName": "amplifystore",
+  "policyUUID": "acfb4be9",
+  "bucketName": "nextimagedemo1",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}
