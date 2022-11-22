@@ -9,7 +9,7 @@ const Background = () => {
     return (
         <div className="p-2">
 
-            <main className="min-h-screen max-w-screen-lg mx-auto p-16 flex flex-1 flex-col font-karla">
+            <main className="min-h-screen max-w-screen-lg mx-auto sm:p-16 flex flex-1 flex-col font-karla">
                 <header>
                     <h1 className='mb-4 text-4xl text-center font-extrabold tracking-tight leading-none text-gray-100 md:text-5xl lg:text-6xl'> Nextjs Image Optimization Demo with Amplify Storage</h1>
 

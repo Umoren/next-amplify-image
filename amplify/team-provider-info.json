@@ -17,6 +17,12 @@
       },
       "storage": {
         "nextimagedemo": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2fu39cpz8vkkr",
+          "type": "cicd"
+        }
       }
     }
   }
