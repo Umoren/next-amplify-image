@@ -25,7 +25,7 @@ const Responsive = () => {
                     </p>
                     <Image
                         alt={image}
-                        src={`https://nextimagedemo1112419-dev.s3.amazonaws.com/public/${image}`}
+                        src={`https://nextimagedemo10161247-dev.s3.amazonaws.com/public/${image}`}
                         width={700}
                         height={475}
                         sizes="(max-width: 768px) 100vw,(max-width: 1200px) 50vw, 33vw"

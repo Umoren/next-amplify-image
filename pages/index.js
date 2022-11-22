@@ -111,7 +111,7 @@ export default function Home() {
           <p className='my-4 text-lg text-gray-500'> For the purpose of this demo, we will display just the first image in the s3 bucket</p>
           <div>
             <Image
-              src={`https://nextimagedemo1112419-dev.s3.amazonaws.com/public/${images}`}
+              src={`https://nextimagedemo10161247-dev.s3.amazonaws.com/public/${images}`}
               alt="Picture of the author"
               width={300}
               height={300}

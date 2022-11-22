@@ -26,7 +26,7 @@ const Fill = () => {
 
                         <Image
                             alt={image}
-                            src={`https://nextimagedemo1112419-dev.s3.amazonaws.com/public/${image}`}
+                            src={`https://nextimagedemo10161247-dev.s3.amazonaws.com/public/${image}`}
                             fill
                             sizes="100vw"
                             style={{
@@ -40,7 +40,7 @@ const Fill = () => {
 
                         <Image
                             alt={image}
-                            src={`https://nextimagedemo1112419-dev.s3.amazonaws.com/public/${image}`}
+                            src={`https://nextimagedemo10161247-dev.s3.amazonaws.com/public/${image}`}
                             fill
                             sizes="100vw"
                             style={{
@@ -53,7 +53,7 @@ const Fill = () => {
 
                         <Image
                             alt={image}
-                            src={`https://nextimagedemo1112419-dev.s3.amazonaws.com/public/${image}`}
+                            src={`https://nextimagedemo10161247-dev.s3.amazonaws.com/public/${image}`}
                             quality={100}
                             fill
                             sizes="100vw"

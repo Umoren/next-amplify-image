@@ -1,6 +1,6 @@
 export type AmplifyDependentResourcesAttributes = {
     "auth": {
-        "nextimagedemo30faf403": {
+        "nextimagedemo0a755ae2": {
             "IdentityPoolId": "string",
             "IdentityPoolName": "string",
             "UserPoolId": "string",
@@ -11,7 +11,7 @@ export type AmplifyDependentResourcesAttributes = {
         }
     },
     "storage": {
-        "amplifystore": {
+        "nextimagedemo": {
             "BucketName": "string",
             "Region": "string"
         }
